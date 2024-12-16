@@ -2,7 +2,7 @@
 
 ### Machine Learning
 
-1. Stock Price Predi
+1. Stock Price Predictor
 
 
 ### Computer Vision
